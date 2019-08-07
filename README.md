@@ -1,17 +1,13 @@
-### `oz456@github:~$`
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="mesmerizing.svg">
+    <img src="mesmerizing.svg" width="100%">
+  </picture>
+</div>
 
-```bash
-#!/bin/bash
-# Setting up the environment
-
-export OS="Linux"
-export AESTHETIC="Minimal"
-export CURRENT_SNACK="Chocobi"
-
-function life_philosophy() {
-    echo "Keep config files clean and setups simple."
-    echo "And remember... I'll be good starting tomorrow! — Shinnosuke"
-}
-
-life_philosophy
+```console
+oz456@github:~$ ./boot --matrix
+[+] Initializing neural architecture...
+[+] Rendering 3D spatial grid...
+[+] Status: Optimal.
 ```
